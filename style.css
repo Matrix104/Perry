@@ -152,7 +152,7 @@ input[class="user-input"]:not(:placeholder-shown) + label {
 }
 
 .hidden-form {
-  margin-left: -10000px;
+  margin-left: -1000px;
 }
 
 .form-container {
